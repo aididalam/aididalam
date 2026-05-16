@@ -1,16 +1,20 @@
+# Hi, I'm Aidid Alam
+
+Full Stack Engineer from Dhaka, Bangladesh, building production web applications while deepening my work in cloud, automation, CI/CD, and GitOps.
+
+I enjoy building practical systems that are reliable, maintainable, and easy to deploy.
+
+## Focus Areas
+
+- Full-stack web development
+- CI/CD pipelines
+- Docker and containerized apps
+- Kubernetes and GitOps workflows
+- Cloud infrastructure and automation
+- Go, JavaScript, TypeScript, PHP
+
+## Find Me
+
+- Email: [aididalam@gmail.com](mailto:aididalam@gmail.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aididalam&hide_progress=true)
-
-<!--
-**aididalam/aididalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
