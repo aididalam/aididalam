@@ -17,4 +17,3 @@ I enjoy building practical systems that are reliable, maintainable, and easy to 
 
 - Email: [aididalam@gmail.com](mailto:aididalam@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aididalam&hide_progress=true)
