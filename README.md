@@ -1,15 +1,11 @@
 # Hi, I'm Aidid Alam 👋
 
-Full Stack Engineer from Dhaka, Bangladesh, building production web applications while deepening my work in cloud, automation, CI/CD, and GitOps.
-
-I enjoy building practical systems that are reliable, maintainable, and easy to deploy.
+Building Expertise in DevOps, Cloud Infrastructure & Automation ...
 
 ## Focusing on 🚀
-
-- Full-stack web development
-- CI/CD pipelines
 - Docker and containerized apps
 - Kubernetes and GitOps workflows
+- CI/CD pipelines
 - Cloud infrastructure and automation
 - Go, JavaScript, TypeScript, PHP
 
